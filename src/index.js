@@ -3,5 +3,5 @@ const otherSample = {
   ...Sample,
   'c':3
 }
-
+// it even has spread by default wtf
 console.log(otherSample)
